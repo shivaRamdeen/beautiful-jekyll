@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: An Awesome Person From The Digital Island.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am Shiva Ramdeen, Electrical and Computer Engineer, Jack of all trades, DIYer, Thinker, Dreamer and wanna be entrepreneur.
+This blog is my first step towards contributing to the industry and the interweb of knowledge. A testiment of my attempts to positively impact the world, to give back and to be one of the many making open source tech great.
